@@ -1,0 +1,6 @@
+eureka:
+  client:
+    fetchRegistry: false
+    register-with-eureka: false
+    server:
+      waitTimeInMsWhenSyncEmpty: 0

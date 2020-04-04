@@ -1,0 +1,39 @@
+
+logging:
+  level:
+    root: INFO
+
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lowerCaseServiceId: true
+      routes:
+        - id: service-a
+          uri: lb://service-a
+          order: 0
+          predicates:
+            - Path=/**
+          filters:
+            - StripPrefix=1
+
+
+        - id: service-b
+          uri: lb://service-b
+          order: 0
+          predicates:
+            - Path=/**
+          filters:
+            - StripPrefix=1
+
+
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 30000

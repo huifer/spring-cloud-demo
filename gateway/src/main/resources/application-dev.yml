@@ -1,0 +1,33 @@
+
+logging:
+  level:
+    root: INFO
+
+spring:
+  cloud:
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lowerCaseServiceId: true
+      routes:
+        - id: service-a
+          uri: lb://service-a
+          order: 0
+          predicates:
+            - Path=/service-a/**
+          filters:
+            - StripPrefix=1
+        - id: service-b
+          uri: lb://service-b
+          order: 0
+          predicates:
+            - Path=/service-b/**
+          filters:
+            - StripPrefix=1
+eureka:
+  client:
+    fetchRegistry: false
+    register-with-eureka: false
+    server:
+      waitTimeInMsWhenSyncEmpty: 0

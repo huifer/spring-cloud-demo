@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7d586c5-3d78-49e2-9f91-d7f0da98bebb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\dev\JAR" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a4a0qoEeLOkNDmKurENCJ4fOW5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/service-b/src/main/java/org/huifer/springcloud/serviceb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sleuth/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\sourcehot\spring-cloud-demo\sleuth\src\main\resources" />
+      <recent name="G:\sourcehot\spring-cloud-demo\service-b\src\main\resources" />
+      <recent name="G:\sourcehot\spring-cloud-demo\service-a\src\main\resources" />
+      <recent name="G:\sourcehot\spring-cloud-demo\gateway\src\main\resources" />
+      <recent name="G:\sourcehot\spring-cloud-demo\service-b\src\main\java\org\huifer\springcloud\serviceb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SleuthApplication">
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.gateway.GatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-a" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.servicea.ServiceAApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.serviceadmin.ServiceAdminApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceBApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-b" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.serviceb.ServiceBApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SleuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sleuth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.huifer.springcloud.sleuth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.sleuth.SleuthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.ServiceAApplication" />
+      <item itemvalue="Spring Boot.ServiceBApplication" />
+      <item itemvalue="Spring Boot.ServiceAdminApplication" />
+      <item itemvalue="Spring Boot.SleuthApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SleuthApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7d586c5-3d78-49e2-9f91-d7f0da98bebb" name="Default Changelist" comment="" />
+      <created>1585997102646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585997102646</updated>
+      <workItem from="1585997115265" duration="3664000" />
+      <workItem from="1586000829571" duration="6418000" />
+      <workItem from="1586007690356" duration="3044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="819" y="198" key="#Project_Structure" timestamp="1585997145297">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="819" y="198" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1585997145297" />
+    <state x="452" y="484" key="#xdebugger.evaluate" timestamp="1586008319027">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="452" y="484" key="#xdebugger.evaluate/0.0.1858.1080@0.0.1858.1080" timestamp="1586008319027" />
+    <state width="435" height="466" key="DebuggerActiveHint" timestamp="1586008896432">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="435" height="466" key="DebuggerActiveHint/0.0.1858.1080@0.0.1858.1080" timestamp="1586008896432" />
+    <state x="1007" y="295" key="FileChooserDialogImpl" timestamp="1586001054605">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="1007" y="295" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1586001054605" />
+    <state width="1249" height="309" key="GridCell.Tab.0.bottom" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.0.center" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793973" />
+    <state width="1249" height="309" key="GridCell.Tab.0.left" timestamp="1586010793973">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793973" />
+    <state width="1249" height="309" key="GridCell.Tab.0.right" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.1.bottom" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.1.center" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.1.left" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.1.right" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.2.bottom" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.2.center" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.2.left" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state width="1249" height="309" key="GridCell.Tab.2.right" timestamp="1586010793974">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1249" height="309" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586010793974" />
+    <state x="568" y="217" width="1040" height="708" key="SettingsEditor" timestamp="1586005570077">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="568" y="217" width="1040" height="708" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1586005570077" />
+    <state x="958" y="321" key="chooseDestDirectoryDialog" timestamp="1585999399897">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="958" y="321" key="chooseDestDirectoryDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1585999399897" />
+    <state x="480" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1586010670857">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="480" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1858.1080@0.0.1858.1080" timestamp="1586010670857" />
+    <state x="854" y="389" width="786" height="596" key="find.popup" timestamp="1586002291330">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="854" y="389" width="786" height="596" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1586002291330" />
+    <state x="556" y="386" key="new project wizard" timestamp="1586005563419">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="556" y="386" key="new project wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1586005563419" />
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1586010076761">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="592" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1586010076761" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="request.getHeaders().getFirst(TID)" language="JAVA" />
+        <watch expression="StringUtils.isBlank(tid)" language="JAVA" />
+        <watch expression="request" language="JAVA" />
+        <watch expression="exchange" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
