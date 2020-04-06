@@ -1,4 +1,4 @@
-package org.huifer.springcloud.servicea.controller;
+package org.huifer.springcloud.servicea.config;
 
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
 import org.springframework.context.annotation.Bean;
