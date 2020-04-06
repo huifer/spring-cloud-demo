@@ -18,19 +18,19 @@ public class RedisConfig {
   }
 
   @Bean
-  public RedisSerializer gsonConfigForRedis() {
-    return new GsonConfigForRedis<Object>(Object.class);
+  public RedisSerializer fastJson2JsonRedisSerializer() {
+    return new FastJson2JsonRedisSerializer<Object>(Object.class);
   }
 
   @Bean
   public RedisTemplate redisTemplate(RedisConnectionFactory factory,
-                                     RedisSerializer gsonConfigForRedis) {
+                                     RedisSerializer fastJson2JsonRedisSerializer) {
     RedisMessageListenerContainer container = redisMessageListenerContainer();
     container.setConnectionFactory(factory);
 
     StringRedisTemplate result = new StringRedisTemplate(factory);
-    result.setValueSerializer(gsonConfigForRedis);
-    result.setHashValueSerializer(gsonConfigForRedis);
+    result.setValueSerializer(fastJson2JsonRedisSerializer);
+    result.setHashValueSerializer(fastJson2JsonRedisSerializer);
     result.setKeySerializer(new StringRedisSerializer());
     result.afterPropertiesSet();
     return result;
