@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -21,58 +21,8 @@
 
 	<dependencies>
 		<dependency>
-			<artifactId>pagehelper</artifactId>
-			<groupId>com.github.pagehelper</groupId>
-			<version>5.1.10</version>
-		</dependency>
-		<dependency>
-			<artifactId>fastjson</artifactId>
-			<groupId>com.alibaba</groupId>
-			<version>1.2.66</version>
-		</dependency>
-		<dependency>
-			<artifactId>locker</artifactId>
-			<groupId>com.github.dreamroute</groupId>
-			<version>2.4-RELEASE</version>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-websocket</artifactId>
-		</dependency>
-		<dependency>
-			<artifactId>commons-lang3</artifactId>
-			<groupId>org.apache.commons</groupId>
-			<version>3.9</version>
-		</dependency>
-		<dependency>
-			<artifactId>mybatis-spring-boot-starter</artifactId>
-			<groupId>org.mybatis.spring.boot</groupId>
-			<version>2.1.2</version>
-		</dependency>
-		<dependency>
-			<artifactId>mysql-connector-java</artifactId>
-			<groupId>mysql</groupId>
-			<version>5.1.47</version>
-		</dependency>
-		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
-			<exclusions>
-				<exclusion>
-					<groupId>com.fasterxml.jackson.core</groupId>
-					<artifactId>jackson-databind</artifactId>
-				</exclusion>
-			</exclusions>
-		</dependency>
-		<dependency>
-			<artifactId>lombok</artifactId>
-			<groupId>org.projectlombok</groupId>
-			<optional>true</optional>
-		</dependency>
-
-		<dependency>
-			<artifactId>spring-boot-starter-data-redis</artifactId>
-			<groupId>org.springframework.boot</groupId>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
@@ -89,7 +39,7 @@
 			<artifactId>spring-cloud-starter-zipkin</artifactId>
 		</dependency>
 
-</dependencies>
+	</dependencies>
 
 	<dependencyManagement>
 		<dependencies>

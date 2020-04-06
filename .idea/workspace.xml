@@ -1,163 +1,116 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e7d586c5-3d78-49e2-9f91-d7f0da98bebb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_66.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_dreamroute_common_util_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_dreamroute_locker_2_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_2_android.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_core_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_hystrix_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_feign_slf4j_10_7_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_github_openfeign_form_feign_form_spring_3_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http2_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_http_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_socks_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_proxy_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_epoll_linux_x86_64_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_48_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_3_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_netty_reactor_netty_0_9_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcpkix_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_64.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_compat_qual_2_5_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_reactor_netty_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_webflux_2_2_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_0_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_commons_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_context_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_gateway_core_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_openfeign_core_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_gateway_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_openfeign_2_2_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_rsa_1_0_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webflux_5_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/base/BaseController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/base/HuiFerBaseInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/base/WebSocketMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/FastJson2JsonRedisSerializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/FaviconConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/ScheduledConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/WebConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/WebSocketConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/constants/BaseConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/constants/InitializrGlobalValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/eception/ServiceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/eception/handler/GlobalExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/eception/handler/SiteExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/EventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/LoginEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/LoginEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/impl/QqLoginEventListenerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/impl/WxLoginEventListenerImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/factory/EventListenerFactoryInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/factory/impl/LoginEventListenerFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/intercepter/BodyReaderHttpServletRequestWrapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/intercepter/HttpServletRequestFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/intercepter/SiteHandlerInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/mapper/TDemoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/db/TDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/enums/LoginTypeEnums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/enums/ResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/enums/SexEnums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/message/ColMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/req/DemoReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/req/MaxAge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/req/UserLoginReq.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/res/UserInfoRes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/vo/ResultVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/IRedisCrudService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/demo/HashRedisKeyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/demo/ListRedisKeyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/demo/ValueRedisKeyImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/rel/RelRedisService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/rel/impl/RelRedisServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/expire/ISetExpireForRedis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/expire/ISetExpireForRedisImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/expire/listener/ExpireListenerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/InProjectScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/SchedulingListService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/demo/IDemoScheduling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/demo/impl/IDemoSchedulingImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/IBusinessService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/IInitializrService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/IStatisticsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/demo/IDemoBusinessService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/demo/impl/IDemoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/enums/IEnumsQueryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/enums/impl/IEnumsQueryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/impl/IInitializrServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/AbsLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/ILoginEventService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/ILoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/impl/ILoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/impl/LogEventService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/impl/QQLoginServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/utils/ThreadLocalHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/valid/EnumValidAnnotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/valid/EnumValidtor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/ReadFileController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/mobile/EventController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/mobile/MobileIndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/pc/PcController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/AbsWebSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/IWebSocketClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/IWebSocketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/demo/DemoWebSocketService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/service-a/src/main/resources/mybatis-config.xml" afterDir="false" />
+    <list default="true" id="e7d586c5-3d78-49e2-9f91-d7f0da98bebb" name="Default Changelist" comment="base web">
+      <change afterPath="$PROJECT_DIR$/nacos/src/main/resources/_application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service-b/src/main/java/org/huifer/springcloud/serviceb/controller/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_66.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_dreamroute_common_util_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_dreamroute_locker_2_4_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_1_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_0_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_20.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_websocket_2_0_1_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_0_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_0_6_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_5_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_websocket_5_0_5_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nacos/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/nacos/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/service-a/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-a/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/Config.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/GsonConfigForRedis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/base/BaseController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/base/HuiFerBaseInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/base/WebSocketMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/FastJson2JsonRedisSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/FaviconConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/RedisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/ScheduledConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/WebConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/config/WebSocketConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/constants/BaseConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/constants/InitializrGlobalValue.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/controller/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/entity/UserInfo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/eception/ServiceException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/eception/handler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/eception/handler/SiteExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/EventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/LoginEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/LoginEventListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/impl/QqLoginEventListenerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/event/login/impl/WxLoginEventListenerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/factory/EventListenerFactoryInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/factory/impl/LoginEventListenerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/intercepter/BodyReaderHttpServletRequestWrapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/intercepter/HttpServletRequestFilter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/intercepter/SiteHandlerInterceptor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/mapper/TDemoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/db/TDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/enums/LoginTypeEnums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/enums/ResultCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/enums/SexEnums.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/message/ColMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/req/DemoReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/req/MaxAge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/req/UserLoginReq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/res/UserInfoRes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/model/vo/ResultVO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/IRedisCrudService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/demo/HashRedisKeyImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/demo/ListRedisKeyImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/demo/ValueRedisKeyImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/rel/RelRedisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/business/rel/impl/RelRedisServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/expire/ISetExpireForRedis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/expire/ISetExpireForRedisImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/redis/expire/listener/ExpireListenerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/InProjectScheduling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/SchedulingListService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/demo/IDemoScheduling.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/scheduling/demo/impl/IDemoSchedulingImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/IBusinessService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/IInitializrService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/IStatisticsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/demo/IDemoBusinessService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/demo/impl/IDemoServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/enums/IEnumsQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/enums/impl/IEnumsQueryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/impl/IInitializrServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/AbsLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/ILoginEventService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/ILoginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/impl/ILoginServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/impl/LogEventService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/service/login/impl/QQLoginServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/utils/ThreadLocalHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/valid/EnumValidAnnotation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/valid/EnumValidtor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/ReadFileController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/mobile/EventController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/mobile/MobileIndexController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/web/pc/PcController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/AbsWebSocket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/IWebSocketClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/IWebSocketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/ws/demo/DemoWebSocketService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/service-a/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-a/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-a/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-b/src/main/java/org/huifer/springcloud/serviceb/controller/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-b/src/main/java/org/huifer/springcloud/serviceb/controller/TestController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,13 +120,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/huifer/spring-cloud-demo.git" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -211,6 +171,9 @@
     <option name="notificationShown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.huifer.springcloud.nacosservicea.feign" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\sourcehot\spring-cloud-demo\service-a\src\main\resources" />
       <recent name="G:\sourcehot\spring-cloud-demo\service-a\src\main\java\org\huifer\springcloud\servicea" />
@@ -240,7 +203,11 @@
         </path>
         <path>
           <item name="Found 7 services " type="fcff1e1b:RestServiceStructure$RootNode" />
-          <item name="service-a" type="c588b436:RestServiceStructure$ProjectNode" />
+          <item name="nacos-service-a" type="c588b436:RestServiceStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="Found 7 services " type="fcff1e1b:RestServiceStructure$RootNode" />
+          <item name="nacos" type="c588b436:RestServiceStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -253,7 +220,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceAApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceBApplication">
     <configuration name="ServiceAApplication#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/ServiceAApplication.http" runType="Run single request">
       <method v="2" />
     </configuration>
@@ -281,6 +248,27 @@
     <configuration name="NacosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="nacos" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.nacos.NacosApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="enabled" value="true" />
+          <option name="name" value="spring.application.name" />
+          <option name="value" value="acacaca" />
+        </param>
+      </additionalParameters>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.huifer.springcloud.nacosgateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.nacosgateway.NacosGatewayApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -288,6 +276,13 @@
     <configuration name="NacosServiceAApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="nacos-service-a" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.huifer.springcloud.nacosservicea.NacosServiceAApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <additionalParameters>
+        <param>
+          <option name="name" value="spring.application.name" />
+          <option name="value" value="fffff" />
+        </param>
+      </additionalParameters>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -345,9 +340,11 @@
       <item itemvalue="Spring Boot.NacosServiceBApplication" />
       <item itemvalue="Spring Boot.SleuthApplication" />
       <item itemvalue="HTTP Request.ServiceAApplication#1" />
+      <item itemvalue="Spring Boot.NacosGatewayApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.NacosGatewayApplication" />
         <item itemvalue="HTTP Request.ServiceAApplication#1" />
         <item itemvalue="Spring Boot.SleuthApplication" />
       </list>
@@ -367,7 +364,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
@@ -408,21 +405,61 @@
       <option name="project" value="LOCAL" />
       <updated>1586158740474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="base web">
+      <created>1586162220150</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586162220150</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="base web" />
+    <option name="LAST_COMMIT_MESSAGE" value="base web" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="559" y="175" width="753" height="729" key="#NacosApplication" timestamp="1586180802875">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="559" y="175" width="753" height="729" key="#NacosApplication/0.0.1858.1080@0.0.1858.1080" timestamp="1586180802875" />
+    <state x="559" y="175" width="753" height="729" key="#NacosServiceAApplication" timestamp="1586180887584">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="559" y="175" width="753" height="729" key="#NacosServiceAApplication/0.0.1858.1080@0.0.1858.1080" timestamp="1586180887584" />
     <state x="819" y="198" key="#Project_Structure" timestamp="1585997145297">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="819" y="198" key="#Project_Structure/0.0.1858.1080@0.0.1858.1080" timestamp="1585997145297" />
-    <state x="893" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1586160115162">
+    <state x="893" y="244" key="#com.intellij.ide.util.MemberChooser" timestamp="1586181013216">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="893" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1586160115162" />
+    <state x="893" y="244" key="#com.intellij.ide.util.MemberChooser/0.0.1858.1080@0.0.1858.1080" timestamp="1586181013216" />
     <state x="818" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586160857097">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -431,10 +468,10 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="452" y="484" key="#xdebugger.evaluate/0.0.1858.1080@0.0.1858.1080" timestamp="1586008319027" />
-    <state x="494" y="132" key="CommitChangelistDialog2" timestamp="1586152626278">
+    <state x="494" y="132" key="CommitChangelistDialog2" timestamp="1586179736238">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="494" y="132" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1586152626278" />
+    <state x="494" y="132" key="CommitChangelistDialog2/0.0.1858.1080@0.0.1858.1080" timestamp="1586179736238" />
     <state width="435" height="466" key="DebuggerActiveHint" timestamp="1586158918840">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -443,70 +480,70 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="1007" y="295" key="FileChooserDialogImpl/0.0.1858.1080@0.0.1858.1080" timestamp="1586152644201" />
-    <state width="1086" height="290" key="GridCell.Tab.0.bottom" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.0.bottom" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.0.center" timestamp="1586161438881">
+    <state width="1157" height="335" key="GridCell.Tab.0.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.0.center" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438881" />
-    <state width="1086" height="290" key="GridCell.Tab.0.left" timestamp="1586161438881">
+    <state width="1157" height="335" key="GridCell.Tab.0.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.0.left" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438881" />
-    <state width="1086" height="290" key="GridCell.Tab.0.right" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.0.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.0.right" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.1.bottom" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.0.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.1.bottom" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.1.center" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.1.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.1.center" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.1.left" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.1.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.1.left" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.1.right" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.1.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.1.right" timestamp="1586181173270">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.2.bottom" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.1.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586181173270" />
+    <state width="1157" height="335" key="GridCell.Tab.2.bottom" timestamp="1586181172678">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.2.center" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.2.bottom/0.0.1858.1080@0.0.1858.1080" timestamp="1586181172678" />
+    <state width="1157" height="335" key="GridCell.Tab.2.center" timestamp="1586181172675">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.2.left" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.2.center/0.0.1858.1080@0.0.1858.1080" timestamp="1586181172675" />
+    <state width="1157" height="335" key="GridCell.Tab.2.left" timestamp="1586181172673">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
-    <state width="1086" height="290" key="GridCell.Tab.2.right" timestamp="1586161438882">
+    <state width="1157" height="335" key="GridCell.Tab.2.left/0.0.1858.1080@0.0.1858.1080" timestamp="1586181172673" />
+    <state width="1157" height="335" key="GridCell.Tab.2.right" timestamp="1586181172678">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state width="1086" height="290" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586161438882" />
+    <state width="1157" height="335" key="GridCell.Tab.2.right/0.0.1858.1080@0.0.1858.1080" timestamp="1586181172678" />
     <state x="728" y="268" key="NewModule_or_Project.wizard" timestamp="1586152647573">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="728" y="268" key="NewModule_or_Project.wizard/0.0.1858.1080@0.0.1858.1080" timestamp="1586152647573" />
-    <state x="667" y="250" key="RollbackChangesDialog" timestamp="1586152622640">
+    <state x="667" y="250" key="RollbackChangesDialog" timestamp="1586179218133">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="667" y="250" key="RollbackChangesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1586152622640" />
+    <state x="667" y="250" key="RollbackChangesDialog/0.0.1858.1080@0.0.1858.1080" timestamp="1586179218133" />
     <state x="568" y="217" width="1040" height="708" key="SettingsEditor" timestamp="1586152650129">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="568" y="217" width="1040" height="708" key="SettingsEditor/0.0.1858.1080@0.0.1858.1080" timestamp="1586152650129" />
-    <state x="0" y="546" key="Vcs.Push.Dialog.v2" timestamp="1586158741841">
+    <state x="0" y="546" key="Vcs.Push.Dialog.v2" timestamp="1586170824165">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="0" y="546" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1586158741841" />
+    <state x="0" y="546" key="Vcs.Push.Dialog.v2/0.0.1858.1080@0.0.1858.1080" timestamp="1586170824165" />
     <state x="958" y="321" key="chooseDestDirectoryDialog" timestamp="1585999399897">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -515,10 +552,14 @@
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
     <state x="480" y="276" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1858.1080@0.0.1858.1080" timestamp="1586010670857" />
-    <state x="854" y="389" width="786" height="596" key="find.popup" timestamp="1586011032394">
+    <state x="92" y="92" width="1674" height="896" key="dock-window-1" timestamp="1586178804700">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
-    <state x="854" y="389" width="786" height="596" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1586011032394" />
+    <state x="92" y="92" width="1674" height="896" key="dock-window-1/0.0.1858.1080@0.0.1858.1080" timestamp="1586178804700" />
+    <state x="854" y="389" width="786" height="596" key="find.popup" timestamp="1586179824094">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="854" y="389" width="786" height="596" key="find.popup/0.0.1858.1080@0.0.1858.1080" timestamp="1586179824094" />
     <state x="556" y="386" key="new project wizard" timestamp="1586152632457">
       <screen x="0" y="0" width="1858" height="1080" />
     </state>
@@ -532,9 +573,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/service-a/src/main/java/org/huifer/springcloud/servicea/controller/TestController.java</url>
+          <url>file://$PROJECT_DIR$/nacos-service-a/src/main/java/org/huifer/springcloud/nacosservicea/controller/TestController.java</url>
           <line>22</line>
-          <option name="timeStamp" value="4" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/nacos-service-a/src/main/java/org/huifer/springcloud/nacosservicea/feign/NacosFeignControllerFallBack.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
