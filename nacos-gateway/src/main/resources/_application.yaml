@@ -1,0 +1,42 @@
+
+logging:
+  level:
+    root: INFO
+
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+          lowerCaseServiceId: true
+      routes:
+        - id: nacos-example
+          uri: lb://nacos-example
+          order: 0
+          predicates:
+            - Path=/**
+          filters:
+            - StripPrefix=1
+
+
+        - id: nacos-service-a
+          uri: lb://nacos-service-a
+          order: 0
+          predicates:
+            - Path=/**
+          filters:
+            - StripPrefix=1
+
+
+
+hystrix:
+  command:
+    default:
+      execution:
+        isolation:
+          thread:
+            timeoutInMilliseconds: 30000

@@ -13,6 +13,7 @@
         <option value="$PROJECT_DIR$/nacos/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-service-a/pom.xml" />
         <option value="$PROJECT_DIR$/nacos-service-b/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-gateway/pom.xml" />
       </list>
     </option>
   </component>

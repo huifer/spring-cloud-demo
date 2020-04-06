@@ -6,17 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="nacos-service-b" />
         <module name="gateway" />
         <module name="service-b" />
         <module name="service-a" />
         <module name="config-server" />
         <module name="turbine" />
+        <module name="nacos-gateway" />
+        <module name="nacos-service-b" />
         <module name="nacos-service-a" />
-        <module name="eureka-server" />
         <module name="sleuth" />
         <module name="nacos" />
         <module name="service-admin" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +26,7 @@
       <module name="gateway" target="1.8" />
       <module name="hystrix-dashboard" target="1.8" />
       <module name="nacos" target="1.8" />
+      <module name="nacos-gateway" target="1.8" />
       <module name="nacos-service-a" target="1.8" />
       <module name="nacos-service-b" target="1.8" />
       <module name="service-a" target="1.8" />
@@ -41,6 +43,7 @@
       <module name="gateway" options="-parameters" />
       <module name="hystrix-dashboard" options="-parameters" />
       <module name="nacos" options="-parameters" />
+      <module name="nacos-gateway" options="-parameters" />
       <module name="nacos-service-a" options="-parameters" />
       <module name="nacos-service-b" options="-parameters" />
       <module name="service-a" options="-parameters" />
