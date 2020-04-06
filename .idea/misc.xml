@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/sleuth/pom.xml" />
         <option value="$PROJECT_DIR$/service-a/pom.xml" />
         <option value="$PROJECT_DIR$/service-b/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-service-a/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-service-b/pom.xml" />
       </list>
     </option>
   </component>
